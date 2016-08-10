@@ -6,9 +6,9 @@
  * Time: 22:28
  */
 
-namespace {{namespace}}Handlers\EventHandlers;
+namespace App\Handlers\EventHandlers;
 
-use {{namespace}}Handlers\HandlerInterface;
+use App\Handlers\HandlerInterface;
 
 class ClickHandler implements HandlerInterface
 {

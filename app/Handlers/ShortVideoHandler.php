@@ -6,7 +6,7 @@
  * Time: 22:28
  */
 
-namespace {{namespace}}Handlers;
+namespace App\Handlers;
 
 
 class ShortVideoHandler implements HandlerInterface

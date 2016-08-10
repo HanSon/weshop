@@ -404,16 +404,16 @@
         },
         {
             "name": "hanson/wechat-handler",
-            "version": "1.0.12",
+            "version": "1.0.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/HanSon/wechat-handler.git",
-                "reference": "a8fa57c95feabdc7f498c40c1a602f2d5e6d52e1"
+                "reference": "839082fc793706fead555ca11ce3a134e2603f88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/HanSon/wechat-handler/zipball/a8fa57c95feabdc7f498c40c1a602f2d5e6d52e1",
-                "reference": "a8fa57c95feabdc7f498c40c1a602f2d5e6d52e1",
+                "url": "https://api.github.com/repos/HanSon/wechat-handler/zipball/839082fc793706fead555ca11ce3a134e2603f88",
+                "reference": "839082fc793706fead555ca11ce3a134e2603f88",
                 "shasum": ""
             },
             "require": {
@@ -432,7 +432,7 @@
                     "email": "h@hanc.cc"
                 }
             ],
-            "time": "2016-08-06 08:19:47"
+            "time": "2016-08-10 14:40:41"
         },
         {
             "name": "jakub-onderka/php-console-color",

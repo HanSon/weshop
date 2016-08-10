@@ -6,7 +6,7 @@
  * Time: 22:27
  */
 
-namespace {{namespace}}Handlers;
+namespace App\Handlers;
 
 
 interface HandlerInterface
